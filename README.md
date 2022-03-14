@@ -20,8 +20,17 @@ Good luck!!
 
   steps = 8 path = [UDDDUDUU]
 
-  _/\      _
-     \    /
-      \/\/
-   
+
+```
+
+_/\      _
+   \    /
+    \/\/
+
+```
+      
+      
+           
+
+      
   Answer: 1 valley
